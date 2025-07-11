@@ -13,4 +13,5 @@ gem install lolcat
 pkg install -y \
   curl proot dnsutils htop nano nmap termux-tools
 
+clear
 echo -e "\n✅ All packages were successfully installed. Your Termux is ready to go! 😎"
